@@ -232,4 +232,4 @@ AFK Journey is provided as a full free version with all features and updates inc
 Ready to embark on your adventure? Download AFK Journey now and explore the magical kingdom of Esperia!
 
 ---
-**Last updated:** 2026-10-31 21:59:41 UTC
+**Last updated:** 2026-11-01 00:44:35 UTC
